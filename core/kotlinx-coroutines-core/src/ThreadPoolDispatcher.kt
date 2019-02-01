@@ -4,10 +4,8 @@
 
 package kotlinx.coroutines
 
-import kotlinx.coroutines.internal.*
 import java.util.concurrent.*
 import java.util.concurrent.atomic.AtomicInteger
-import kotlin.coroutines.*
 
 /**
  * Creates a new coroutine execution context using a single thread with built-in [yield] support.

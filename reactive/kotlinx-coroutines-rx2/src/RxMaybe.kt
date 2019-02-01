@@ -5,10 +5,8 @@
 package kotlinx.coroutines.rx2
 
 import io.reactivex.*
-import io.reactivex.functions.*
 import kotlinx.coroutines.*
 import kotlin.coroutines.*
-import kotlin.experimental.*
 
 /**
  * Creates cold [maybe][Maybe] that will run a given [block] in a coroutine.

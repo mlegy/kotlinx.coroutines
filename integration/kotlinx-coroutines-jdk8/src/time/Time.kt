@@ -6,7 +6,6 @@ package kotlinx.coroutines.time
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.selects.SelectBuilder
 import java.time.Duration
-import java.util.concurrent.TimeUnit
 
 /**
  * "java.time" adapter method for [kotlinx.coroutines.delay]

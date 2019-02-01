@@ -9,7 +9,6 @@ import org.junit.After
 import org.junit.Test
 import java.util.concurrent.atomic.AtomicInteger
 import java.util.concurrent.atomic.AtomicReference
-import kotlin.coroutines.*
 
 class ConflatedChannelCloseStressTest : TestBase() {
 

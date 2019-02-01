@@ -5,7 +5,6 @@
 package kotlinx.coroutines.rx2
 
 import kotlinx.coroutines.*
-import kotlinx.coroutines.reactive.*
 import org.hamcrest.core.*
 import org.junit.*
 

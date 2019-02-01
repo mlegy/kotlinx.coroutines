@@ -7,7 +7,6 @@ package kotlinx.coroutines
 
 import com.esotericsoftware.kryo.*
 import com.esotericsoftware.kryo.io.*
-import kotlinx.atomicfu.*
 import org.junit.Test
 import org.objenesis.strategy.*
 import java.io.*

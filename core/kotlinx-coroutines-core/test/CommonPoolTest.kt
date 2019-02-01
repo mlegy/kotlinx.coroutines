@@ -4,7 +4,6 @@
 
 package kotlinx.coroutines
 
-import kotlinx.coroutines.*
 import org.junit.*
 import org.junit.Assert.*
 import java.lang.reflect.*

@@ -7,7 +7,6 @@
 package kotlinx.coroutines
 
 import kotlinx.coroutines.channels.*
-import kotlin.coroutines.*
 import kotlin.test.*
 
 /**

@@ -9,7 +9,6 @@ import com.devexperts.dxlab.lincheck.Result
 import com.devexperts.dxlab.lincheck.Utils.*
 import com.devexperts.dxlab.lincheck.execution.*
 import com.devexperts.dxlab.lincheck.verifier.Verifier
-import java.lang.reflect.Method
 import java.util.*
 import kotlin.coroutines.Continuation
 import kotlin.coroutines.CoroutineContext

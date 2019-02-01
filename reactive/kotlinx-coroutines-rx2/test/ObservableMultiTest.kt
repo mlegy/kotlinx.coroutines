@@ -9,7 +9,6 @@ import kotlinx.coroutines.*
 import org.junit.*
 import org.junit.Assert.*
 import java.io.*
-import kotlin.experimental.*
 
 /**
  * Test emitting multiple values with [rxObservable].

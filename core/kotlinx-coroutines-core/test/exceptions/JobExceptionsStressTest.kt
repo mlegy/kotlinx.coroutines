@@ -7,7 +7,6 @@ package kotlinx.coroutines.exceptions
 import kotlinx.coroutines.*
 import org.junit.*
 import org.junit.Test
-import java.io.*
 import java.util.concurrent.*
 import kotlin.test.*
 
